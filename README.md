@@ -1,3 +1,10 @@
+## Run the app
+- `npm install`
+- `cp .env.example .env`
+- provide API_KEY, USER_ID and USER_TOKEN to the `.env` file
+- `npm run dev`
+
+
 # vue-chat-app
 
 This template should help get you started developing with Vue 3 in Vite.
